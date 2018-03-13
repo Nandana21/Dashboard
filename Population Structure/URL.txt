@@ -1,0 +1,2 @@
+This URL may be reused to download the selected set of tables in the future. Tables will be downloaded with the latest available data and information at the point of download.
+http://www.tablebuilder.singstat.gov.sg/publicfacing/downloadLink.action?key=db175f955ebd837c1c2dd42ed843ef3e65f9bdc3
